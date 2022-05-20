@@ -1,10 +1,11 @@
 ## Juan Paraducha
-Full-Stack developer
-
+<h3>Full-Stack developer from Argentina </h3>
 
 ## :star: Aboute me:
 
-24 years old Systems Engineering student from Argentina and full-stack developer.
+Back-end oriented Full-Stack developer. Focused on scalability, reutilization and modularization when building projects.
+
+I have a mostly academic background as a current Systems Engineering student, and a PERN Full-Stack Bootcamp graduate, where I learnt and improved various skills and technologies.
 
 ## :star: Languages and Tools:
 
